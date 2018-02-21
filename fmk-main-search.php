@@ -1,5 +1,5 @@
 <?php
-	 $db = new mysqli('localhost', 'alphaeff_fmk', 'J^9}qKeKTel4', 'alphaeff_fmkstage');
+	 $db = new mysqli('localhost', '', '', '');
  ?>
 
  <form class="form-inline"  method="POST" action="" accept-charset="utf-8">
