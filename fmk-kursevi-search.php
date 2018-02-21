@@ -1,5 +1,5 @@
 <?php
-	 $db = new mysqli('localhost', '', 'J^9}', '');
+	 $db = new mysqli('localhost', '', '', '');
  ?>
 
 <div id='kursevisearch' class="container-search">
